@@ -1,3 +1,3 @@
 #1tes2t
-from registry.cn-guangzhou.aliyuncs.com/mylcy/mynginx:demo
+from nginx:1.21
 add ./index.html /usr/share/nginx/html
