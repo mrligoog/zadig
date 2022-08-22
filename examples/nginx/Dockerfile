@@ -1,3 +1,3 @@
 #1tes2t
-from koderover.tencentcloudcr.com/koderover-demo/nginx
+from registry.cn-hangzhou.aliyuncs.com/mylcy/nginx:koderover-demo
 add ./index.html /usr/share/nginx/html
